@@ -1,7 +1,6 @@
 install.packages("lme4")
 install.packages("afex")
 install.packages("broom.mixed")
-install.packages("faux")
 install.packages("tidyverse")
 install.packages("grid")
 install.packages("coefplot")
